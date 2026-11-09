@@ -46,7 +46,7 @@ Proyek ini mencakup implementasi dasar hingga modul pendukung untuk operasi Bina
 ### Langkah-langkah
 1. Clone atau Unduh Repository
    ```bash
-   git clone <URL_REPOSITORY_ANDA>
+   git clone <https://github.com/Ling0304-code/BinaryTree.git>
    cd Kelompok_Binarytree
    ```
 
